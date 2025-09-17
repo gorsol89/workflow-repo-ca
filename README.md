@@ -1,18 +1,13 @@
 # Workflow repo for the CA
 
-
-
 Acknowledgement
-
 
 Chat GTP has in this assignment been my coworker and coach. He has helped me review my code, explain concepts in a way I understand better, and check for errors,  
 but all implementation decisions, testing, and final code were done by me.
 
 Also thanks to my teacher Connor Obrien for answering all my stupid questions during my work with the CA.
 
-
 From the CA text:
-
 
 Checklist
 Eslint is installed and configured to handle test globals
