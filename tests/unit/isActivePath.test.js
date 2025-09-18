@@ -1,5 +1,5 @@
 import { it, expect } from "vitest";
-import { isActivePath } from "../js/utils/isActivePath.js";
+import { isActivePath } from "../../js/utils/isActivePath.js";
 //console.log("typeof isActivePath =", typeof isActivePath);
 
 // 1 test: same paths gives a true

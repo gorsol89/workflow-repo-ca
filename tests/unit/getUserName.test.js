@@ -1,5 +1,5 @@
 import { it, expect, beforeEach } from "vitest";
-import { getUserName } from "../js/utils/getUserName.js";
+import { getUserName } from "../../js/utils/getUserName.js";
 
 // reset storage between tests
 beforeEach(() => {
