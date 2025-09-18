@@ -16,12 +16,14 @@ export default [
     languageOptions: {
       globals: {
         ...globals.browser,
-        // Test globals we will use in Vitest/Playwright lessons
+        // Test globals used in Vitest/Playwright lessons
         describe: true,
         test: true,
         it: true,
         expect: true,
-        // Node-style globals needed for Tailwind config and env usage
+        beforeEach: true, 
+        afterEach: true,    
+        vi: true,           
         require: true,
         module: true,
         process: true,
